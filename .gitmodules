@@ -1,0 +1,3 @@
+[submodule "SIGameBackend"]
+	path = SIGameBackend
+	url = git@github.com:DnC275/SIGameBackend.git
